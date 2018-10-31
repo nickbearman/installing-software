@@ -36,4 +36,4 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software/qgis.Rmd. This version was created on `r format(Sys.time(), '%d %B %Y')`.*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on `r format(Sys.time(), '%d %B %Y')`.*
