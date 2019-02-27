@@ -1,0 +1,36 @@
+---
+title: "Setting up a Twitter Account"
+author: "Nick Bearman - Geospatial Training Solutions"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+We will be opening a new account with Twitter. Follow the instructions below.
+
+- Go to www.twitter.com.  
+- Click **Sign Up**.  
+- Fill in your name. You can supply either a phone number or email address (click **Use email instead** to swap) and click **Next**.  
+- Choose options to customise your experience, click **Next**.  
+- Check your name and email, and click **Sign Up**.  
+- Twitter will send you an email (or text message). Check your email and copy the verification code into the box and click **Next**.  
+- Choose a password and click **Next**.  
+- Add a photo for a profile picture if you have one, or if not click **Skip for Now**.  
+- Add in your Bio, or click **Skip for Now**.  
+- Choose topics you are interested in, or click **Skip for Now**.  
+- Twitter will make some suggestions for people to follow, select some (or not) and then click **Next**.  
+- Choose whether to allow Notifications (within your browser) or click **Skip for Now**.  
+- Choose whether to get a link for the app or click **No, thanks**.  
+
+
+You are good to go!
+
+
+*Your Twitter handle (e.g. @NickBearmanUK) is set automatically. If you want to change it, go to your profile icon at the top right, and choose **Settings and Privacy**. In **Account** change the entry under **Username**.*
+
+
+Make sure you remember your email / phone number and password for the course. 
+
+
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on `r format(Sys.time(), '%d %B %Y')`.*
