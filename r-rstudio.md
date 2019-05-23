@@ -14,7 +14,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Open a web browser and go to https://cran.r-project.org/. 
 - Click **Download R for Windows**. 
 - Choose the link **install R for the first time**. 
-- Download the latest version (3.5.3 at time of writing) **Download R 3.5.3 for Windows**. 
+- Download the latest version (3.6.0 at time of writing) **Download R 3.6.0 for Windows**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to https://www.rstudio.com/products/rstudio/download/#download. 
@@ -25,7 +25,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 
 - Open a web browser and go to https://cran.r-project.org/. 
 - Click **Download R for (Mac) OS X**. 
-- Download the latest version (3.5.3 at time of writing) **R-3.5.3.pkg**. 
+- Download the latest version (3.6.0 at time of writing) **R-3.6.0.pkg**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to https://www.rstudio.com/products/rstudio/download/#download. 
