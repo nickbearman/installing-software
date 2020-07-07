@@ -7,7 +7,7 @@ output:
     df_print: paged
 ---
 
-We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the libary installation section.
+We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section.
 
 ## Windows 
 
@@ -41,9 +41,9 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Follow the instructions for the appropiate Linux distribution.  
 <!-- add more to this section -->
 
-## Libaries
+## Libraries
 
-R uses libaries to add features and different tools, such as GIS and spatial analysis. We need to install some libaries we will be using. 
+R uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. 
 
 - Open **RStudio**. 
 - In the **Console** type in `install.packages("sf")`. 
