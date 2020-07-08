@@ -1,5 +1,5 @@
 ---
-title: "Installing R & Rstudio"
+title: "Installing R & RStudio"
 author: "Nick Bearman"
 output:
   pdf_document: default
@@ -18,7 +18,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to https://www.rstudio.com/products/rstudio/download/#download. 
-  - Download the latest version (1.3.959 at the time of writing) **Download RStudio for Windows**. 
+- Download the latest version (1.3.959 at the time of writing) **Download RStudio for Windows**. 
 - Run through the program installation process.  
 
 ## OS X
@@ -41,9 +41,9 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Follow the instructions for the appropiate Linux distribution.  
 <!-- add more to this section -->
 
-## Libraries
+## Libaries
 
-R uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. 
+R uses libaries to add features and different tools, such as GIS and spatial analysis. We need to install some libaries we will be using. 
 
 - Open **RStudio**. 
 - In the **Console** type in `install.packages("sf")`. 
