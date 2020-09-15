@@ -29,7 +29,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to https://www.rstudio.com/products/rstudio/download/#download. 
-- Download the latest version (1.3.959 at the time of writing) **Download RStudio for Mac**. 
+- Download the latest version (1.3.1073 at the time of writing) **Download RStudio for Mac**. 
 - Run through the program installation process. 
 
 <!-- add later
