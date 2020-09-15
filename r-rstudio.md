@@ -18,7 +18,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to https://www.rstudio.com/products/rstudio/download/#download. 
-- Download the latest version (1.3.959 at the time of writing) **Download RStudio for Windows**. 
+- Download the latest version (1.3.1073 at the time of writing) **Download RStudio for Windows**. 
 - Run through the program installation process.  
 
 ## OS X
@@ -53,4 +53,4 @@ R uses libaries to add features and different tools, such as GIS and spatial ana
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on 07/07/2020.*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on 15/09/2020.*
