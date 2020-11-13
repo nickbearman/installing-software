@@ -22,6 +22,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 - Click **Download Now**.  
 - Under **Download for macOS** click **QGIS macOS Installer Version 3.16**.  
 - Follow through the installation wizard.  
+
 *QGIS is not yet signed, so when you first launch the app, use right click on the QGIS app icon and choose Open.*
 
 ## Linux/Ubuntu
