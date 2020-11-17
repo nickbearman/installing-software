@@ -14,7 +14,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 - Open a web browser and go to http://geodacenter.github.io/.  
 - Click **Download**.  
 - Click **Download for Windows**.  
-- Download **GeoDa 1.14.0 (8/7/2019)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
+- Download **GeoDa 1.16 (10/20/2020)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
 - Run through the program installation process.  
 
 ## OSX
@@ -22,7 +22,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 - Open a web browser and go to http://geodacenter.github.io/.  
 - Click **Download**.  
 - Click **Download for Mac**.  
-- Download **GeoDa 1.14.0 (8/7/2019) for Mac OS X 10.7+**.  
+- Download **GeoDa 1.16 (10/20/2020) for Mac OS X 10.7+**.  
 - Follow through the installation wizard.  
 
 - **Note the instructions at the bottom of the page:**
@@ -42,4 +42,4 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on 08/07/2020.*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on 17/11/2020.*
