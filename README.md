@@ -1,5 +1,4 @@
-# Installing Software
+# installing-software
+Instructions for installing a range of Geo &amp; GIS programs
 
-Instructions for installing various geo related programs. This has now moved to https://nickbearman.github.io/installing-software/, please check there for the site and the [gh-pages branch](https://github.com/nickbearman/installing-software/tree/gh-pages) to make changes. 
-
-
+If you have any suggestions, please do edit the relevant page on GitHub, and submit a Pull Request. Comments are welcome to nick@geospatialtrainingsolutions.co.uk or on [Twitter](https://www.twitter.com/nickbearmanuk).
