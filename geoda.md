@@ -1,28 +1,21 @@
----
-title: "Installing GeoDa"
-author: "Nick Bearman"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+# Installing GeoDa
 
-We will be setting up QGIS. Follow the instructions below, depending on your operating system.
+We will be setting up GeoDa. Follow the instructions below, depending on your operating system.
 
 ## Windows 
 
 - Open a web browser and go to http://geodacenter.github.io/.  
 - Click **Download**.  
 - Click **Download for Windows**.  
-- Download **GeoDa 1.16 (10/20/2020)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
+- Download **GeoDa 1.18 (12/20/2020)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
 - Run through the program installation process.  
 
-## OSX
+## Mac OSX
 
 - Open a web browser and go to http://geodacenter.github.io/.  
 - Click **Download**.  
 - Click **Download for Mac**.  
-- Download **GeoDa 1.16 (10/20/2020) for Mac OS X 10.7+**.  
+- Download **GeoDa 1.18 (6/16/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try 10.7+ to begin with.*   
 - Follow through the installation wizard.  
 
 - **Note the instructions at the bottom of the page:**
@@ -42,4 +35,4 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://github.com/nickbearman/installing-software. This version was created on 17/11/2020.*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/geoda](https://nickbearman.github.io/installing-software/geoda).*
