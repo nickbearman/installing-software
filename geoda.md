@@ -4,7 +4,7 @@ We will be setting up GeoDa. Follow the instructions below, depending on your op
 
 ## Windows 
 
-- Open a web browser and go to http://geodacenter.github.io/.  
+- Open a web browser and go to [http://geodacenter.github.io/](http://geodacenter.github.io/).  
 - Click **Download**.  
 - Click **Download for Windows**.  
 - Download **GeoDa 1.18 (12/20/2020)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
@@ -12,17 +12,17 @@ We will be setting up GeoDa. Follow the instructions below, depending on your op
 
 ## Mac OSX
 
-- Open a web browser and go to http://geodacenter.github.io/.  
+- Open a web browser and go to [http://geodacenter.github.io/](http://geodacenter.github.io/).  
 - Click **Download**.  
 - Click **Download for Mac**.  
 - Download **GeoDa 1.18 (6/16/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try 10.7+ to begin with.*   
 - Follow through the installation wizard.  
 
-- **Note the instructions at the bottom of the page:**
+**Note the instructions at the bottom of the page:**
 
-- *Mac OSX > 10.8 users. Please note that you will get a warning message about this program coming from an unknown developer the first time you try to open it.*
+*Mac OSX > 10.8 users. Please note that you will get a warning message about this program coming from an unknown developer the first time you try to open it.*
 
-- *Use control-click and select open to open the program (instead of double click) and accept at the prompt. You will not be asked this again. However, in order for this to work, you need to set your Security & Privacy preferences to Mac App Store and identified developers; the default is Mac App store only, which will NOT WORK for GeoDa.*
+*Use control-click and select open to open the program (instead of double click) and accept at the prompt. You will not be asked this again. However, in order for this to work, you need to set your Security & Privacy preferences to Mac App Store and identified developers; the default is Mac App store only, which will NOT WORK for GeoDa.*
 
 <!-- 
 ## Linux/Ubuntu
