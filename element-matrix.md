@@ -4,7 +4,7 @@ For most of my courses I run a discussion channel, available before, during and 
 
 - I will have emailed you an invite link that looks a bit like this:
 
-![](element-invite-email.png)
+![](images/element-invite-email.png)
 
 - Click **Join the conversation.** to get started
 
