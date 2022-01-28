@@ -43,6 +43,14 @@ R uses libraries to add features and different tools, such as GIS and spatial an
 - Check the output you get - red text does not always mean an error! 
 - Repeat the process for the `tmap` package (`install.packages("tmap")`) and any other packages you need. 
 
+## RStudio Cloud
+
+If you can't get R & RStudio installed on your computer, there is another option. You can use RStudio Cloud, which runs RStudio in a web browser. You can get a free account which will be enough for a short course. 
+
+- Go to `rstudio.cloud`.
+- Choose **Sign Up** and fill out the form. 
+- To get started, choose **New Project** and **New RStudio Project**. **It will take a few seconds to load**. 
+
 
 You are good to go!
 
