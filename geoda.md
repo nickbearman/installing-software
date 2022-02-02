@@ -7,15 +7,16 @@ We will be setting up GeoDa. Follow the instructions below, depending on your op
 - Open a web browser and go to [http://geodacenter.github.io/](http://geodacenter.github.io/).  
 - Click **Download**.  
 - Click **Download for Windows**.  
-- Download **GeoDa 1.18 (12/20/2020)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
+- Download **GeoDa 1.20.0.8 (12/28/2021)**. *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
 - Run through the program installation process.  
+- If Windows says "Windows protected your PC", it may have blocked installation. Choose **More info** and then **Run anyway** to install GeoDa. 
 
 ## Mac OSX
 
 - Open a web browser and go to [http://geodacenter.github.io/](http://geodacenter.github.io/).  
 - Click **Download**.  
 - Click **Download for Mac**.  
-- Download **GeoDa 1.18 (6/16/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try 10.7+ to begin with.*   
+- Download **GeoDa1.20.0.8 (12/28/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try Intel x86_64 (Big Sur+) to begin with.*   
 - Follow through the installation wizard.  
 
 **Note the instructions at the bottom of the page:**
