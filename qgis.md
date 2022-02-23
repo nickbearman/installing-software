@@ -6,14 +6,14 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download Now**.  
-- Download the latest version of **QGIS Standalone Installer** (currently 3.20).  
+- Download the latest version of **QGIS Standalone Installer** (currently 3.22).  
 - Run through the program installation process.  
 
 ## OSX
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download Now**.  
-- Under **Download for macOS** click **QGIS macOS Installer Version 3.20**.  
+- Under **Download for macOS** click **QGIS macOS Installer Version 3.22**.  
 - Follow through the installation wizard.  
 
 *QGIS is not yet signed, so when you first launch the app, hold down the option key, right click on the QGIS app icon and choose Open.*
