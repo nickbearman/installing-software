@@ -16,12 +16,12 @@ We will be setting up GeoDa. Follow the instructions below, depending on your op
 - Open a web browser and go to [http://geodacenter.github.io/](http://geodacenter.github.io/).  
 - Click **Download**.  
 - Click **Download for Mac**.  
-- Download **GeoDa 1.20.0.8 (12/28/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try Intel x86_64 (Big Sur+) to begin with.*   
+- Download **GeoDa 1.20.0.8 (10/14/2021) for Mac OS X**. *Select the relevant version for your computer. If you are not sure, try Intel x86_64 (Big Sur+) to begin with.*   
 - Follow through the installation wizard.  
 
 **Note the instructions at the bottom of the page:**
 
-*Mac OSX > 10.8 users. Please note that you will get a warning message about this program coming from an unknown developer the first time you try to open it.*
+*Please note that you will get a warning message about this program coming from an unknown developer the first time you try to open it.*
 
 *Use control-click and select open to open the program (instead of double click) and accept at the prompt. You will not be asked this again. However, in order for this to work, you need to set your Security & Privacy preferences to Mac App Store and identified developers; the default is Mac App store only, which will NOT WORK for GeoDa.*
 
