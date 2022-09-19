@@ -54,7 +54,7 @@ If you can't get R & RStudio installed on your computer, there is another option
 
 ## Troubleshooting
 
-If you get stuck, check out [troubleshooting](r-rstudio-library-troubleshooting.html] for some things to try. 
+If you get stuck, check out [troubleshooting](r-rstudio-library-troubleshooting.html) for some things to try. 
 
 You are good to go!
 
