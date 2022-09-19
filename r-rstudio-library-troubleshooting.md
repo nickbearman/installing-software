@@ -22,7 +22,7 @@ This is (approximately) the output you should get (click the link for the full i
 
 This is (approximately) the output you should get (*I've not included the full version because it is so long!*):
 
-![](images/r-install-packages-tmap-success-cut.png){ width=70% }
+<img src="images/r-install-packages-tmap-success-cut.png" width=70%>
 
 
 ## Problems
