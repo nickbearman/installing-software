@@ -49,7 +49,7 @@ If you can't get R & RStudio installed on your computer, there is another option
 
 - Go to `rstudio.cloud`.
 - Choose **Sign Up** and fill out the form. 
-- To get started, choose **New Project** and **New RStudio Project**. **It will take a few seconds to load**. 
+- To get started, choose **New Project** and **New RStudio Project**. *It will take a few seconds to load*. 
 
 
 You are good to go!
