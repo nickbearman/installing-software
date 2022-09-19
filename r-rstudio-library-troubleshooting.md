@@ -2,7 +2,7 @@
 
 Installing Libraries in R can be problematic sometimes. Here are a few hints and tips that might be useful for you.
 
-## sf
+## Install sf
 
 R uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. Follow these instructions to install the `sf` library. *Note the terms library and package are interchangeable.*
 
@@ -11,18 +11,19 @@ R uses libraries to add features and different tools, such as GIS and spatial an
 
 This is (approximately) the output you should get (click the link for the full image):
 
-[![](images/r-install-packages-sf-success-cut.png)](r-install-packages-sf-success-full.png)
+[![](images/r-install-packages-sf-success-cut.png)](images/r-install-packages-sf-success-full.png){ width=70% }
 
 - Check the output you get - red text does not always mean an error!
 
-## tmap
+## Install tmap
 
 - Repeat the process for the `tmap` package.
 - In the **Console** type in `install.packages("tmap")`.
 
 This is (approximately) the output you should get (*I've not included the full version because it is so long!*):
 
-![](images/r-install-packages-tmap-success-cut.png)
+![](images/r-install-packages-tmap-success-cut.png){ width=70% }
+
 
 ## Problems
 
@@ -33,7 +34,7 @@ If you don't get this output, there may have been a problem. Best move is to try
 
 You should get something like this:
 
-![](images/r-load-library-success-sf-tmap.png)
+<img src="images/r-load-library-success-sf-tmap.png" width=70%>
 
 If you don't, then there are a few steps you can try:
 
@@ -47,7 +48,7 @@ If you don't, then there are a few steps you can try:
 	- Remove using `remove.packages("classInt")` (*for the `classInt` package) or
 	- Open the **Packages** tab (on the right) and click the `X` by whichever package you want to remove:
 	
-	![](images/r-remove-packages.png)
+	![](images/r-remove-packages.png){ width=70% }
 	
 - If that doesn't work, do reach out to me before the course and ask for help.
 
