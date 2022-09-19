@@ -11,7 +11,7 @@ R uses libraries to add features and different tools, such as GIS and spatial an
 
 This is (approximately) the output you should get (click the link for the full image):
 
-[![](images/r-install-packages-sf-success-cut.png)](images/r-install-packages-sf-success-full.png){ width=70% }
+[![](images/r-install-packages-sf-success-cut.png)](images/r-install-packages-sf-success-full.png)
 
 - Check the output you get - red text does not always mean an error!
 
@@ -22,7 +22,7 @@ This is (approximately) the output you should get (click the link for the full i
 
 This is (approximately) the output you should get (*I've not included the full version because it is so long!*):
 
-<img src="images/r-install-packages-tmap-success-cut.png" width=70%>
+![](images/r-install-packages-tmap-success-cut.png)
 
 
 ## Problems
@@ -34,24 +34,24 @@ If you don't get this output, there may have been a problem. Best move is to try
 
 You should get something like this:
 
-<img src="images/r-load-library-success-sf-tmap.png" width=70%>
+![](images/r-load-library-success-sf-tmap.png)
 
 If you don't, then there are a few steps you can try:
 
 - R might say a dependent library is unavailable. 
 	- Check what the red text says. If it says (for example) `There has been an error installing the Rcpp library`, try installing that library:
-	- `install.packages("Rcpp")
+	- `install.packages("Rcpp")`
 	- Then try loading it: `library(Rcpp)`
 	- If that works, try installing either `sf` or `tmap` again.
 - It might give you instructions to install another piece of software - try this if you can. 
 - If neither of those work, you can try uninstalling and reinstalling the library
-	- Remove using `remove.packages("classInt")` (*for the `classInt` package) or
+	- Remove using `remove.packages("classInt")` (*e.g. for the `classInt` package*) or
 	- Open the **Packages** tab (on the right) and click the `X` by whichever package you want to remove:
 	
-	![](images/r-remove-packages.png){ width=70% }
+	![](images/r-remove-packages.png)
 	
 - If that doesn't work, do reach out to me before the course and ask for help.
 
-- An alternative is to use [RStudio.cloud](r-rstudio.html#RStudio-Cloud). 
+- An alternative is to use [RStudio.cloud](r-rstudio.html#rstudio-cloud). 
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/r-rstudio](https://nickbearman.github.io/installing-software/r-rstudio).*
