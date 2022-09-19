@@ -52,6 +52,10 @@ If you can't get R & RStudio installed on your computer, there is another option
 - To get started, choose **New Project** and **New RStudio Project**. *It will take a few seconds to load*. 
 
 
+## Troubleshooting
+
+If you get stuck, check out [troubleshooting](r-rstudio-library-troubleshooting.html] for some things to try. 
+
 You are good to go!
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/r-rstudio](https://nickbearman.github.io/installing-software/r-rstudio).*
