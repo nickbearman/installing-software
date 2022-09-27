@@ -43,8 +43,14 @@ If you don't, then there are a few steps you can try:
 	- `install.packages("Rcpp")`
 	- Then try loading it: `library(Rcpp)`
 	- If that works, try installing either `sf` or `tmap` again.
-- It might give you instructions to install another piece of software - try this if you can. 
-- If neither of those work, you can try uninstalling and reinstalling the library
+- R might ask if you want to compile the package from source:
+	![](images/r-binary-version.png)
+	- Usually the best choice here is to say no, which means R will use a very slightly older version of the library, but it should be fine for our work. 
+	- *If you say yes, R will ask you to install RTools, which will probably work, but adds to the length of the setup time!*
+	
+- R might give you instructions to install another piece of software - try this if you can.
+ 
+- If none of those work, you can try uninstalling and reinstalling the library
 	- Remove using `remove.packages("classInt")` (*e.g. for the `classInt` package*) or
 	- Open the **Packages** tab (on the right) and click the `X` by whichever package you want to remove:
 	
