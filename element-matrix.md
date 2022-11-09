@@ -28,4 +28,4 @@ Instructions are below, and I have also created a video at [https://youtu.be/HU3
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/qgis](https://nickbearman.github.io/installing-software/qgis).*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/element-matrix-public](https://nickbearman.github.io/installing-software/element-matrix-public).*

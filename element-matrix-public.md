@@ -4,7 +4,7 @@ I use Matrix as a discussion room for many of my courses, as an open source alte
 
 - Click on the link [https://matrix.to/#/#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org)
 
-- Click **Continue**..
+- Click **Continue**.
 
 - Click **Continue** again under Element. *There are many different chat clients, but I think Element is easiest to setup.*
 
@@ -18,14 +18,14 @@ I use Matrix as a discussion room for many of my courses, as an open source alte
 
 - Verify your address by clicking the link in the the email - **Verify Your Email Address**.   
 
-- This will open a web page saying Registration Successful.  
+- This will open a web page saying Registration Successful and *should* log you in to your account.  
 
-- Then login with your new account.  
+- You might get a message `#OSGeoUK:matrix.org can't be previewed. Do you want to join it?`. This is fine. 
 
-- Click **Join Discussion** to join the room.  
+- Click **Join the discussion** to join the room.  
 
 - If you can't find the room, click the link [https://matrix.to/#/#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). 
 
 You are good to go!
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/qgis](https://nickbearman.github.io/installing-software/element-matrix-public).*
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/element-matrix-public](https://nickbearman.github.io/installing-software/element-matrix-public).*
