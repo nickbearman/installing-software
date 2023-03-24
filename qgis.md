@@ -6,14 +6,14 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download Now**.  
-- Download the latest version of the long term release **Looking for the most stable version? Get QGIS 3.22 LTR** *(just under the green button)*.  
+- Download the latest version of the long term release **Looking for the most stable version? Get QGIS 3.28 LTR** *(just under the green button)*.  
 - Run through the program installation process.  
 
 ## OSX
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download Now**.  
-- Under **Download for macOS** choose long term release **Looking for the most stable version? Get QGIS 3.22 LTR** *(just under the green button)*.  
+- Under **Download for macOS** choose long term release **Looking for the most stable version? Get QGIS 3.28 LTR** *(just under the green button)*.  
 - Follow through the installation wizard.  
 
 *QGIS is not yet signed/notarised as required by MacOS, so when you first launch the app, hold down the Option key, right click on the QGIS app icon and choose Open.*
@@ -23,7 +23,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download Now**.  
 - Expand the **Download for Linux** option.  
-- Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.22).  
+- Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.28).  
 <!-- add more to this section -->
 
 You are good to go!
