@@ -12,7 +12,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Once R is installed, we can install RStudio. 
 - Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download). 
 - Click **DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS**
-- Download the latest version (2023.03.0+386 at the time of writing). 
+- Download the latest version (2023.03.1+446 at the time of writing). 
 - Run through the program installation process.  
 
 ## OS X
@@ -24,7 +24,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Once R is installed, we can install RStudio. 
 - Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download). 
 - Click **DOWNLOAD RSTUDIO DESKTOP FOR MacOS**
-- Download the latest version (2023.03.0+386 at the time of writing). 
+- Download the latest version (2023.03.1+446 at the time of writing). 
 - Run through the program installation process. 
 
 <!-- add later
