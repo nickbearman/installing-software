@@ -16,7 +16,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 - Under **Download for macOS** choose long term release **Looking for the most stable version? Get QGIS 3.28 LTR** *(just under the green button)*.  
 - Follow through the installation wizard.  
 
-*QGIS is not yet signed/notarised as required by MacOS, so when you first launch the app, hold down the Option key, right click on the QGIS app icon and choose Open.*
+*After installing QGIS, the first launch attempt may fail due to security protections. To enable QGIS, control-click on its icon in your Applications folder and select Open in the context menu. A confirmation dialog will display where you need to click the Open button again. This only has to be done once.*
 
 ## Linux/Ubuntu
 
