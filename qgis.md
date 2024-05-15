@@ -1,6 +1,6 @@
 ## Installing QGIS
 
-We will be setting up QGIS. Follow the instructions below, depending on your operating system. Be aware that the installation can take a little bit of time - between 15 and 60 minutes, depending on your computer. 
+We will be setting up QGIS. Follow the instructions below, depending on your operating system. Be aware that the installation can take a little bit of time - between 15 and 45 minutes, depending on your computer. 
 
 ## Windows 
 
