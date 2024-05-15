@@ -4,14 +4,14 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ## Windows 
 
-- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
+- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download Now</u>.  
 - Download the latest version of the long term release <u>Looking for the most stable version? Get QGIS 3.34 LTR</u> *(just under the green button)*.  
 - Run through the program installation process.  
 
 ## OSX
 
-- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
+- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download Now</u>.  
 - Under <u>Download for macOS</u> choose long term release <u>Looking for the most stable version? Get QGIS 3.34 LTR</u> *(just under the green button)*.  
 - Follow through the installation wizard.  
@@ -20,7 +20,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ## Linux/Ubuntu
 
-- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
+- Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download Now</u>.  
 - Expand the <u>Download for Linux</u> option.  
 - Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.34).  
