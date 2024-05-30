@@ -68,6 +68,6 @@ If you don't, then there are a few steps you can try:
 	
 - If that doesn't work, do reach out to me before the course and ask for help.
 
-- An alternative is to use [RStudio.cloud](r-rstudio.html#rstudio-cloud). 
+- An alternative is to use [RStudio.cloud / Posit.cloud](r-rstudio.html#posit-cloud). 
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/deed.en](http://creativecommons.org/licenses/by-sa/4.0/deed.en). The latest version of this is available from [https://nickbearman.github.io/installing-software/r-rstudio](https://nickbearman.github.io/installing-software/r-rstudio).*
