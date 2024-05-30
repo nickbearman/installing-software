@@ -13,6 +13,8 @@ This is (approximately) the output you should get (click the link for the full i
 
 [![](images/r-install-packages-sf-success-cut.png)](images/r-install-packages-sf-success-full.png)
 
+- Then load the library by running `library(sf)`.
+
 - Check the output you get - red text does not always mean an error!
 
 ## Install tmap
@@ -24,10 +26,18 @@ This is (approximately) the output you should get (*I've not included the full v
 
 ![](images/r-install-packages-tmap-success-cut.png)
 
+- The load the library by running `library(tmap)`. 
+
+- The `tmap` library may give you this message:
+
+![Breaking News: tmap 3.x is retiring. Please test v4, e.g. with
+remotes::install_github('r-tmap/tmap')](images/tmap-v4-testing.png)
+
+This is saying that there is a new version of the `tmap` library - version 4. It is not out yet and RStudio will have installed version 3.3-4 for you. We will stick with using version 3 in this course, and I will talk more about this in the presentation. 
 
 ## Problems
 
-If you don't get this output, there may have been a problem. Best move is to try loading the libraries.
+If you don't get this output, there may have been a problem. Best move is to try loading the libraries again.
 
 - In the **Console** type in `library(sf)`.
 - and then type in `library(tmap)`.
