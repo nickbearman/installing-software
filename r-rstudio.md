@@ -4,27 +4,27 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 
 ## Windows 
 
-- Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/). 
+- Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/){:target="_newpage"}. 
 - Click **Download R for Windows**. 
 - Choose the link **install R for the first time**. 
-- Download the latest version (4.3.0 at time of writing) **Download R-4.3.0 for Windows**. 
+- Download the latest version (4.4.0 at time of writing) **Download R-4.4.0 for Windows**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
-- Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download). 
-- Click **DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS**
-- Download the latest version (2023.03.1+446 at the time of writing). 
+- Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
+- Download the latest version (2024.04.2+764 at the time of writing). 
+- Under **2: Install RStudio** click **DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS**
 - Run through the program installation process.  
 
-## OS X
+## Mac / OS X
 
-- Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/). 
+- Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/){:target="_newpage"}. 
 - Click **Download R for macOS**. 
-- Download the latest version (4.3.0 at time of writing) **R-4.3.0.pkg**. 
+- Download the latest version (4.4.0 at time of writing) **R-4.4.0-arm64.pkg**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
-- Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download). 
-- Click **DOWNLOAD RSTUDIO DESKTOP FOR MacOS**
-- Download the latest version (2023.03.1+446 at the time of writing). 
+- Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download){:target="_newpage"}. 
+- Click **DOWNLOAD RSTUDIO DESKTOP FOR macOS**
+- Download the latest version (2024.04.2-764 at the time of writing). 
 - Run through the program installation process. 
 
 <!-- add later
@@ -59,7 +59,7 @@ If you get stuck, check out [troubleshooting](r-rstudio-library-troubleshooting.
 
 If you can't get R & RStudio installed on your computer, there is another option. You can use Posit Cloud, which runs RStudio in a web browser. You can get a free account which will be enough for a short course. 
 
-- Go to [posit.cloud](https://posit.cloud/).
+- Go to [posit.cloud](https://posit.cloud/){:target="_newpage"}.
 - Choose **Sign Up** 
 - Select **Learn more** under the **Cloud free** plan 
 - Choose **Sign Up** and fill out the form. 
