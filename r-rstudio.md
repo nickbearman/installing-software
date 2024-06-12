@@ -22,7 +22,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Download the latest version (4.4.0 at time of writing) **R-4.4.0-arm64.pkg**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
-- Go to [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download){:target="_newpage"}. 
+- Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
 - Click **DOWNLOAD RSTUDIO DESKTOP FOR macOS**
 - Download the latest version (2024.04.2-764 at the time of writing). 
 - Run through the program installation process. 
