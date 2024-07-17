@@ -6,7 +6,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download</u>.  
-- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate. 
 - Click <u>Skip it and go to download</u>.
 - Download <u>Long Term Version for Windows (3.34 LTR)</u>.
 - Run through the program installation process.  
@@ -15,7 +15,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download</u>.  
-- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate. 
 - Click <u>Skip it and go to download</u>.
 - Download <u>Long Term Version for Mac OS (3.34 LTR)</u>.
 - Follow through the installation wizard.  
@@ -26,7 +26,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
 - Click <u>Download</u>.  
-- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate. 
 - Click <u>Skip it and go to download</u>.
 - Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.34).  
 <!-- add more to this section -->
