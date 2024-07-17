@@ -5,24 +5,29 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 ## Windows 
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
-- Click <u>Download Now</u>.  
-- Download the latest version of the long term release <u>Looking for the most stable version? Get QGIS 3.34 LTR</u> *(just under the green button)*.  
+- Click <u>Download</u>.  
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Click <u>Skip it and go to download</u>.
+- Download <u>Long Term Version for Windows (3.34 LTR)</u>.
 - Run through the program installation process.  
 
 ## OSX
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
-- Click <u>Download Now</u>.  
-- Under <u>Download for macOS</u> choose long term release <u>Looking for the most stable version? Get QGIS 3.34 LTR</u> *(just under the green button)*.  
+- Click <u>Download</u>.  
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Click <u>Skip it and go to download</u>.
+- Download <u>Long Term Version for Mac OS (3.34 LTR)</u>.
 - Follow through the installation wizard.  
 
-*After installing QGIS, the first launch attempt may fail due to security protections. To enable QGIS, control-click on its icon in your Applications folder and select Open in the context menu. A confirmation dialog will display where you need to click the Open button again. This only has to be done once.*
+**Tips for first launch** *After installing QGIS, the first launch attempt may fail due to security protections. To enable QGIS, control-click on its icon in your Applications folder and select Open in the context menu. A confirmation dialog will display where you need to click the Open button again. This only has to be done once.*
 
-## Linux/Ubuntu
+## Linux
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org){:target="_newpage"}.  
-- Click <u>Download Now</u>.  
-- Expand the <u>Download for Linux</u> option.  
+- Click <u>Download</u>.  
+- Read the information about how QGIS is funded - if you are taking a course through me, you can support QGIS my donating €20 and getting a QGIS certificate. 
+- Click <u>Skip it and go to download</u>.
 - Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.34).  
 <!-- add more to this section -->
 
