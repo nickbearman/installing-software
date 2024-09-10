@@ -7,7 +7,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/){:target="_newpage"}. 
 - Click **Download R for Windows**. 
 - Choose the link **install R for the first time**. 
-- Download the latest version (4.4.0 at time of writing) **Download R-4.4.0 for Windows**. 
+- Download the latest version (4.4.1 at time of writing) **Download R-4.4.1 for Windows**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
@@ -19,7 +19,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 
 - Open a web browser and go to [https://cran.r-project.org/](https://cran.r-project.org/){:target="_newpage"}. 
 - Click **Download R for macOS**. 
-- Download the latest version (4.4.0 at time of writing) **R-4.4.0-arm64.pkg**. 
+- Download the latest version (4.4.1 at time of writing) **R-4.4.1-arm64.pkg**. 
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
