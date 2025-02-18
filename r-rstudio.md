@@ -11,7 +11,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Run through the program installation process.  
 - Once R is installed, we can install RStudio. 
 - Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
-- Download the latest version (2024.09.1+394 at the time of writing). 
+- Download the latest version (2024.12.1+563 at the time of writing). 
 - Under **2: Install RStudio** click **DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS**
 - Run through the program installation process.  
 
@@ -24,7 +24,7 @@ We will be setting up R & RStudio. Follow the instructions below, depending on y
 - Once R is installed, we can install RStudio. 
 - Go to [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download){:target="_newpage"}. 
 - Click **DOWNLOAD RSTUDIO DESKTOP FOR macOS**
-- Download the latest version (2024.09.1+394 at the time of writing). 
+- Download the latest version (2024.12.1+563 at the time of writing). 
 - Run through the program installation process. 
 
 <!-- add later
@@ -46,12 +46,7 @@ R uses libraries to add features and different tools, such as GIS and spatial an
 - Check the output you get - red text does not always mean an error! 
 - Repeat the process for the `tmap` package (`install.packages("tmap")` and then `library(tmap)`) and any other packages you need. 
 
-- The `tmap` library may give you this message:
-
-![Breaking News: tmap 3.x is retiring. Please test v4, e.g. with
-remotes::install_github('r-tmap/tmap')](images/tmap-v4-testing.png)
-
-This is saying that there is a new version of the `tmap` library - version 4. It is not out yet and RStudio will have installed version 3.3-4 for you. We will stick with using version 3 in this course, and I will talk more about this in the presentation. 
+*If you already have `tmap` installed, please upgrade it to the latest version. We will be using `tmap` v4 in the course. If you are not sure which version of `tmap` you are using, you can check by loading `tmap` and then running `packageVersion("tmap")`.*
 
 If you get stuck, check out [troubleshooting](r-rstudio-library-troubleshooting.html) for some things to try. 
 
